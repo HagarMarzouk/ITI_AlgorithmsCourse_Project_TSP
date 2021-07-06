@@ -1,8 +1,10 @@
 # ITI_AlgorithmsCourse_Project_TSP
 
 
-This project was delivered to the Algorithms course in ITI, the purpose was to discucc many posible algorithms solutions for  a specific problem, in our case Travel Salesman problem (TSP), and to check the implementation of it.
--The implementation used here is after the Public notebooks: /services/public/dblank / jupyter.cs / FLAIRS-2015
+This project was delivered to the Algorithms course in ITI.
+The purpose is to discuss many possible algorithms for  a specific problem, in our case Travel Salesman problem (TSP), and to check the implementation of them.
+
+> The implementation used here is after the Public notebooks: /services/public/dblank / jupyter.cs / FLAIRS-2015
 
 In this project:
 ## Jupyter Notebook
