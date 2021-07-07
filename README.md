@@ -7,12 +7,12 @@ The purpose is to discuss many possible algorithms for  a specific problem, in o
 > The implementation used here is after the Public notebooks: /services/public/dblank / jupyter.cs / FLAIRS-2015
 
 ## In this project:
-### Jupyter Notebook
+### 1- Jupyter Notebook
 Implementation of four approximate algorithms (Nearest Neighbor, Greedy Algorithm, Divide and conqure and Minimum Spanning Tree) that solve the TSP.
-### Presentation 
+### 2- Presentation 
 Presentation of the whole problem of TSP, showing the assumbtions and how to implement the solutions, then discussing each one of the four suggested algorithms and making a comparison between them at the end.
 
-## Travel Sales Man Problem: 
+# Travel Sales Man Problem: 
 Given a set of cities and the distances between each pair of cities, what is the shortest possible tour that visits each city exactly once, and returns to the starting city?
 
 The notebook starts with an algorithm that is guaranteed to solve the problem (although it is inefficient for large sets of cities).
